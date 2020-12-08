@@ -16,7 +16,7 @@
   }
   
   dependencies {
-	  implementation 'com.github.bigdongdong:ENumberView:1.0.x' //添加依赖
+	  implementation 'com.github.bigdongdong:ENumberView:1.1.x' //添加依赖
   }
 ```
 
