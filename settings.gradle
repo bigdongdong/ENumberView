@@ -1,2 +1,3 @@
+include ':ENumberView'
 include ':app'
 rootProject.name = "ENumberView"
