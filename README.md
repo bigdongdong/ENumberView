@@ -3,7 +3,7 @@
 
 
 # 截图预览（Screen Recrod）
-<img  width = "450" src = "https://github.com/bigdongdong/ENumberView/blob/master/preview/1.jpg"></img></br>
+<img  width = "450" src = "https://github.com/bigdongdong/ENumberView/blob/master/preview/1.png"></img></br>
 
 # 项目配置
 
