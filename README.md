@@ -25,7 +25,7 @@
     <com.cxd.enumberview.ENumberView
             android:id="@+id/eNumberView"
             xmlns:e_number="http://schemas.android.com/apk/res-auto"
-            e_number:count = "8"
+            e_number:count="8"
             e_number:backgroundColor="#eaeaea"
             e_number:foregroundColor="#111111"
             android:layout_width="300dp"
