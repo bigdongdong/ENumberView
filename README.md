@@ -16,23 +16,27 @@
   }
   
   dependencies {
-	  implementation 'com.github.bigdongdong:ENumberView:1.1.x' //添加依赖
+	  implementation 'com.github.bigdongdong:ENumberView:1.1' //添加依赖
   }
 ```
 
 # 属性说明
 ```xml
-    xmlns:e_number="http://schemas.android.com/apk/res-auto"
-    e_number:count = "8"
-    e_number:backgroundColor="#eaeaea"
-    e_number:foregroundColor="#111111"
+    <com.cxd.enumberview.ENumberView
+            android:id="@+id/eNumberView"
+            xmlns:e_number="http://schemas.android.com/apk/res-auto"
+            e_number:count="8"
+            e_number:backgroundColor="#eaeaea"
+            e_number:foregroundColor="#111111"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"/>
 ```
 
 |属性名称|解释|
 |:---|:---|
-|count|数字位数|
-|backgroundColor|背景色|
-|foregroundColor|前景色|
+|e_number:count|数字位数|
+|e_number:backgroundColor|背景色|
+|e_number:foregroundColor|前景色|
 
 # 使用说明
 ```java
