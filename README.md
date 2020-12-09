@@ -34,9 +34,9 @@
 
 |属性名称|解释|
 |:---|:---|
-|count|数字位数|
-|backgroundColor|背景色|
-|foregroundColor|前景色|
+|e_number:count|数字位数|
+|e_number:backgroundColor|背景色|
+|e_number:foregroundColor|前景色|
 
 # 使用说明
 ```java
